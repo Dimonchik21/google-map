@@ -1,0 +1,16 @@
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.p10px {
+  padding: 10px;
+}
+
+.pt10px {
+  padding-top: 10px;
+}
+
+.pb10px {
+  padding-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+.restaurantsList {
+  width: 30vw;
+  max-width: 650px;
+  height: 100%;
+  max-height: 600px;
+  position: absolute;
+  background-color: white;
+  overflow: hidden;
+  padding: 15px;
+  top: 0;
+  overflow-y: auto;
+  left: 0;
+  z-index: 1000;
+}
+
+.d-flext {
+  display: flex;
+}
